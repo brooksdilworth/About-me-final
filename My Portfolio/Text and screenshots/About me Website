@@ -1,0 +1,85 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Untitled Document</title>
+</head>
+
+<body>
+<h1>Hello, world! My name is Brooks.</h1>
+<p>This is a webpag all about me. My likes, my dislikes, hopes, dreams and favorite things.</p>
+<h1>Biography</h1>
+<img src="baby pic.JPG" width="200" height="250" alt=""/>
+<p>I am a senior at Cox Mill High School in Conord, NC. Inhavbe 3 siblings and want to major in Psych/Nuerology next year. I like to hangout with my friends, eat all sorts of food and above all, listen to music.</p>
+<p>I used to play basketball, but I got hurt and quit. I like to cook, watch movies and take long drives.</p>
+<h1>My favorite Quotation</h1>
+	<blockquote>
+	  <p><em>&quot;We go to the moon, but not because it's easy, <strong>but because its hard&quot;-</strong> John F. Kennedy</em></p>
+    </blockquote>
+</blockquote>
+<h1>My Favorite Foods</h1>
+<ul>
+  <li>Pizza</li>
+  <li>Curry</li>
+  <li>Ramen</li>
+  <li>Hamburgers</li>
+  <li>Tacos</li>
+</ul>
+	<h1>My favorite Drake albums: Ranked </h1>
+	<ul>
+	  <li>Take Care</li>
+	  <li>Views</li>
+	  <li>Nothing was the Same</li>
+	  <li>CLB</li>
+	  <li>Dark Lane DT</li>
+	  <li>If your reading this its too late</li>
+</ul>
+	<h1>Countires I'd like to visit, and what I'd do there.</h1>
+	<ol>
+	<p>France</p>
+    <ul>
+      <li>Elife Tower
+        <l/i>
+      </li>
+      <li> Eat a Bagguette</li>
+    </ul>
+	<p>Jamacia</p>
+	<ul>
+	  <li>Swim in Blue waters</li>
+	  <li>Eat Exotic Food	</li>
+</ul>
+	<p>Egpyt</p>
+	<ul>
+	  <li>Walk in Dessert</li>
+	  <li>See a Pyrmaid</li>
+</ul>
+		</ol><table width="400" border="5" cellspacing="0" cellpadding="10">
+  <tbody>
+    <tr>
+      <td>Favorite Movie</td>
+      <td><a href="https://www.imdb.com/title/tt1853728/">Django Unchained</a></td>
+    </tr>
+    <tr>
+      <td>Favorite Artist</td>
+      <td><a href="https://en.wikipedia.org/wiki/Bryson_Tiller">Bryson Tiller</a></td>
+    </tr>
+    <tr>
+      <td>Favorite Food</td>
+      <td><a href="https://en.wikipedia.org/wiki/Sushi">Sushi</a></td>
+    </tr>
+    <tr>
+      <td>Favotite Sports Team</td>
+      <td><a href="https://en.wikipedia.org/wiki/Chicago_Bulls">Bulls</a></td>
+    </tr>
+    <tr>
+      <td>Favorite Animal</td>
+      <td><a href="https://en.wikipedia.org/wiki/Tiger">Tiger</a></td>
+    </tr>
+    <tr>
+      <td>Favorite Candy</td>
+      <td><a href="https://en.wikipedia.org/wiki/Jolly_Rancher">Jolly Ranchers</a></td>
+    </tr>
+  </tbody>
+</table>
+</body>
+</html>
